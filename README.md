@@ -11,8 +11,8 @@
 <img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/css.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/PHP.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/PHP.png" width="100" height="50">
+<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="100">
 
 ## Computer skills
 - Good knowledge of unix systems
