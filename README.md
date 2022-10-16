@@ -22,6 +22,7 @@
 - Good knowledge of [unix systems](https://en.wikipedia.org/wiki/Unix)
 - Notions of complexity
 - [Data structure](https://en.wikipedia.org/wiki/Data_structure)
+- Concepts of [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
 
 ## Contacts
 > Linkedin : https://www.linkedin.com/in/françois-picard-66902b254/
