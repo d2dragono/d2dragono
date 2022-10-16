@@ -15,9 +15,9 @@
 <img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="100">
 
 ## Computer skills
-- Good knowledge of unix systems
+- Good knowledge of [unix systems](https://en.wikipedia.org/wiki/Unix)
 - Notions of complexity
-- Data structure
+- [Data structure](https://en.wikipedia.org/wiki/Data_structure)
 
 ## Contacts
 > Linkedin : https://www.linkedin.com/in/françois-picard-66902b254/
