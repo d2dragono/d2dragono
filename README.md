@@ -8,15 +8,15 @@
 
 ## Programming languages
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Procedural -
-<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg" width="50" height="50">
+&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg" width="50" height="50">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Web -
-<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg" width="50" height="50">
+&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg" width="50" height="50">
 &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/css.svg" width="50" height="50">
 &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/PHP.png" width="100" height="50">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Object oriented -
-<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="100">
+&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="100">
 
 ## Computer skills
 - Good knowledge of [unix systems](https://en.wikipedia.org/wiki/Unix)
