@@ -13,7 +13,7 @@ _Note that you can click on the logo to access my depositories where I use the l
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Web -
 &nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg" width="50" height="50">
-&nbsp;&nbsp&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/css.svg" width="50" height="50">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/css.svg" width="50" height="50">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/PHP.png" width="100" height="50">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Object oriented -
