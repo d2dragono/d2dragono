@@ -10,5 +10,7 @@
 
 ## Contacts
 > Linkedin : https://www.linkedin.com/in/françois-picard-66902b254/
+
 > Discord : Srnty#3596
+
 > Mail : fpicard.info@gmail.com
