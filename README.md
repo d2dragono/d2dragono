@@ -7,11 +7,11 @@
 - I would like to make my own graphics engine one day 🛠
 
 ## Programming languages
-![C]() C
-![HTML]() HTML5
-![CSS]() CSS
-![JAVA]() JAVA
-![PHP]() PHP
+- ![C](https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg) C
+- ![HTML](https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg) HTML5
+- ![CSS](https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/css.svg) CSS
+- ![JAVA]() JAVA
+- ![PHP]() PHP
 
 ## Computer skills
 ![UNIX]() Good knowledge of unix systems
