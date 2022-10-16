@@ -9,7 +9,7 @@
 ## Programming languages
 _Note that you can click on the logo to access my depositories where I use the language_
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Procedural -
-&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg" width="50" height="50">
+&nbsp;<a href="https://github.com/d2dragono?tab=repositories&q=&type=&language=c&sort="><img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg" width="50" height="50"></a>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Web -
 &nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg" width="50" height="50">
