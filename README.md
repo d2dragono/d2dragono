@@ -17,7 +17,7 @@ _Note that you can click on the logo to access my depositories where I use the l
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/PHP.png" width="100" height="50">
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Object oriented -
-&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="100">
+&nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="80">
 
 ## Computer skills
 - Good knowledge of [unix systems](https://en.wikipedia.org/wiki/Unix)
