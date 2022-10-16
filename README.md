@@ -6,7 +6,17 @@
 - Passionate about science 🧪
 - I would like to make my own graphics engine one day 🛠
 
-## Skills
+## Programming languages
+![C]() C
+![HTML]() HTML5
+![CSS]() CSS
+![JAVA]() JAVA
+![PHP]() PHP
+
+## Computer skills
+![UNIX]() Good knowledge of unix systems
+- Notions of complexity
+- Data structure
 
 ## Contacts
 > Linkedin : https://www.linkedin.com/in/françois-picard-66902b254/
