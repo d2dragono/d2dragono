@@ -7,7 +7,7 @@
 - I would like to make my own graphics engine one day 🛠
 
 ## Programming languages
-_Note that you can click on a logo to access my depository having this specific language_
+_Note that you can click on the logo to access my depositories where I use the language_
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Procedural -
 &nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/c.svg" width="50" height="50">
 
