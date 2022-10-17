@@ -6,9 +6,9 @@
 - Passionate about science 🧪
 - I would like to make my own graphics engine one day 🛠
 
-#### Goals
+### Goals
 
-- [ ] Finish
+- &nbsp;[ ] Finish
 - [x] dd
 - [ ] aa
 
