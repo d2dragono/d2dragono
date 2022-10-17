@@ -9,7 +9,7 @@
 </div>
 
 <div>
-  <h2>Goals</h2>
+  <h3>Goals</h3>
 
   - [ ] Finish my studies
   - [ ] Reach Beat Saber top 1000
