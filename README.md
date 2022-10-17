@@ -1,21 +1,19 @@
 ![Banner](https://raw.githubusercontent.com/d2dragono/d2dragono/main/github_banniere.gif)
 
-<div id="about_me" display="flex">
-  <div class="box" width="50%">
-    <h3>About me</h3>
+<div>
+  <h2>About me</h2>
 
-      - Student in computer science 💻
-      - Passionate about science 🧪
-      - I would like to make my own graphic engine one day 🛠
-  </div>
+    - Student in computer science 💻
+    - Passionate about science 🧪
+    - I would like to make my own graphic engine one day 🛠
+</div>
 
-  <div class="box" width="50%">
-    <h3>Goals</h3>
+<div>
+  <h2>Goals</h2>
 
-    - [ ] Finish my studies
-    - [ ] Reach Beat Saber top 1000
-    - [ ] Make my own graphic engine
-  </div>
+  - [ ] Finish my studies
+  - [ ] Reach Beat Saber top 1000
+  - [ ] Make my own graphic engine
 </div>
 
 ## Programming languages
