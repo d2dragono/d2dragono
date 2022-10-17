@@ -12,7 +12,7 @@
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goals</h3>
 
   - [ ] Finish my studies
-  - [ ] Reach Beat Saber top 1000 &nbsp;🏆
+  - [ ] Reach Beat Saber top 1000 (currently top 6k)&nbsp;🏆
   - [ ] Make my own graphic engine
 </div>
 
