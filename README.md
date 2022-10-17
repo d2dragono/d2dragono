@@ -14,6 +14,8 @@
   - [ ] Finish my studies
   - [ ] Reach Beat Saber top 1000
   - [ ] Make my own graphic engine
+  
+  <img src="https://raw.githubusercontent.com/d2dragono/d2dragono/9ce2f87ae8062fd4167b2747101d483686f7539a/html.svg" width="50" height="50" float="right">
 </div>
 
 ## Programming languages
