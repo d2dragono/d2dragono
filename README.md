@@ -4,13 +4,13 @@
 
 - Student in computer science 💻
 - Passionate about science 🧪
-- I would like to make my own graphics engine one day 🛠
+- I would like to make my own graphic engine one day 🛠
 
 ### Goals
 
-- &nbsp;[ ] Finish
-- [x] dd
-- [ ] aa
+- [ ] Finish my studies
+- [ ] Reach Beat Saber top 1000
+- [ ] Make my own graphic engine
 
 ## Programming languages
 _Note that you can click on the logo to access my depositories where I use the language_
