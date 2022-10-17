@@ -1,18 +1,22 @@
 ![Banner](https://raw.githubusercontent.com/d2dragono/d2dragono/main/github_banniere.gif)
 
-## About me
+<div id="about_me">
+  <div class="box">
+    ## About me
 
-<b>
-- Student in computer science 💻
-- Passionate about science 🧪
-- I would like to make my own graphic engine one day 🛠
-</b>
+      - Student in computer science 💻
+      - Passionate about science 🧪
+      - I would like to make my own graphic engine one day 🛠
+  </div>
 
-### Goals
+  <div class="box">
+    ### Goals
 
-- [ ] Finish my studies
-- [ ] Reach Beat Saber top 1000
-- [ ] Make my own graphic engine
+    - [ ] Finish my studies
+    - [ ] Reach Beat Saber top 1000
+    - [ ] Make my own graphic engine
+  </div>
+</div>
 
 ## Programming languages
 _Note that you can click on the logo to access my depositories where I use the language_
