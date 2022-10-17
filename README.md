@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/d2dragono/d2dragono/main/github_banniere.gif)
 
-<div id="about_me">
+<div id="about_me" display="flex">
   <div class="box">
     <h3>About me</h3>
 
