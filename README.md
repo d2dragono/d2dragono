@@ -2,7 +2,7 @@
 
 <div id="about_me">
   <div class="box">
-    ## About me
+    <h3>About me</h3>
 
       - Student in computer science 💻
       - Passionate about science 🧪
@@ -10,7 +10,7 @@
   </div>
 
   <div class="box">
-    ### Goals
+    <h3>Goals</h3>
 
     - [ ] Finish my studies
     - [ ] Reach Beat Saber top 1000
