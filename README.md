@@ -14,7 +14,7 @@
   - [ ] Finish my studies
   - [ ] Reach Beat Saber top 1000
   - [ ] Make my own graphic engine
-</div>
+</div><br>
 
 ## Programming languages
 _Note that you can click on the logo to access my depositories where I use the language_
