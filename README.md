@@ -12,7 +12,7 @@
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goals</h3>
 
   - [ ] Finish my studies
-  - [ ] Reach [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/) top 1000 (currently top 6k)&nbsp;🏆
+  - [ ] Reach [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/) top 1000 ([my profil](https://scoresaber.com/u/76561198164535593))&nbsp;🏆
   - [ ] Make my own graphic engine
 </div>
 
