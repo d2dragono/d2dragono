@@ -2,9 +2,11 @@
 
 ## About me
 
-- Student in computer science 💻 - [ ] Finish my studies
+<b>
+- Student in computer science 💻
 - Passionate about science 🧪
 - I would like to make my own graphic engine one day 🛠
+</b>
 
 ### Goals
 
