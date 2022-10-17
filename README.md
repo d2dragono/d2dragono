@@ -6,11 +6,13 @@
 - Passionate about science 🧪
 - I would like to make my own graphics engine one day 🛠
 
-### &nbsp;&nbsp;&nbsp;Goals
+> Goals
 
-- [ ] Finish
-- [x] dd
-- [ ] aa
+> [ ] Finish
+
+> [x] dd
+
+> [ ] aa
 
 ## Programming languages
 _Note that you can click on the logo to access my depositories where I use the language_
