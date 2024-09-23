@@ -2,18 +2,16 @@
 
 <div>
   <h2>About me</h2>
-
     - Student in computer science 💻
     - Passionate about science 🧪
-    - I would like to make my own graphic engine one day 🛠
 </div>
 
 <div>
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goals</h3>
 
   - [ ] Finish my studies
-  - [ ] Reach [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/) top 1000 ([my profile](https://scoresaber.com/u/76561198164535593))&nbsp;&nbsp;🏆
-  - [ ] Make my own graphic engine
+  - [ ] Make my dream Arch linux config
+  - [ ] Finish my Hyprland configuration (this will always be a work in progress lol)
   - [ ] Make my own website&nbsp;&nbsp;🖥
 </div>
 
@@ -31,14 +29,9 @@ _Note that you can click on the logo to access my depositories where I use the l
 &nbsp;<img src="https://raw.githubusercontent.com/d2dragono/d2dragono/main/java.png" width="50" height="90">
 
 ## Computer skills
-- Good knowledge of [unix systems](https://en.wikipedia.org/wiki/Unix)
+- Good knowledge of [unix systems](https://en.wikipedia.org/wiki/Unix), most importantly Linux <3
 - Notions of complexity
 - [Data structure](https://en.wikipedia.org/wiki/Data_structure)
 - Concepts of [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture)
-
-## Contacts
-> Linkedin : https://www.linkedin.com/in/françois-picard-66902b254/
-
-> Discord : Srnty#3596
-
-> Mail : fpicard.info@gmail.com
+- Sysadmin
+- Probably a lot more
