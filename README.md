@@ -1,5 +1,3 @@
-![Banner](https://raw.githubusercontent.com/d2dragono/d2dragono/main/banniere.png)
-
 <div>
   <h2>About me</h2>
     - Student in computer science 💻
